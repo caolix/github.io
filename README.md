@@ -20,6 +20,12 @@ git config --global user.email “你的Github邮箱地址”
 3. 在_posts文件夹中放入自己写好的博客,文件名必须是日期-标题名,例如:2016-10-25-我的第一篇博客
 4. 上传博客到Github中即可访问自己的博客
 
+## demo
+
+```
+https://starry99.github.io/catbook
+```
+
 ## Setup
 
 ```sh
