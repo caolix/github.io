@@ -23,7 +23,7 @@ user:
   name: caolix
   pic: /assets/img/cat.jpg
   picAlt: "NoteBook"
-  job: 每天进步一点点！
+  job: 但行好事，莫问前程！
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
